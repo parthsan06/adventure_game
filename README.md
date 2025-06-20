@@ -1,20 +1,17 @@
-# adventure_game
-A brief description of what this project does and who it's for.
+# Adventure game
+A text-based adventure game.
 
 ## 🚀 Features
 
-- Add new contacts
-- Search contacts by name
-- Update existing contacts
-- Delete contacts
-- Data persistence with files (optional)
+- Description and prompts appear
+- Choose among the options provided in the prompt by inputting text
+- Make all the right choices to find the treasure and win the game
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Language: Python 3
-- Concepts Used: Functions, Dictionaries, File Handling, Loops
 
 ---
 
